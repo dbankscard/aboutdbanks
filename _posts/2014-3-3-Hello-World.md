@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Let's get this done..
+title: Let's get this done
 ---
 
-This is my first post about getting things done.. 
+If you are amongst the 
+
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
