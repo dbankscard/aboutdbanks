@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I'm Dwight a man of many hats including being an Admin of Mac, AWS, and occasionally Azure. If there's a chance of making it better, count me in. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my spare time I like to create music using Propellerhead Reason and learning how to play the bass guitar. 
 
-### Contact me
+Here's my artist page on Apple Music
 
-[email@domain.com](mailto:email@domain.com)
+[About D.Banks](https://music.apple.com/us/artist/dbanks/1449488905)
+
+### Contact Information
+
+[dwight.banks@icloud.com](mailto:email@domain.com)
